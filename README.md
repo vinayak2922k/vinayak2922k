@@ -196,16 +196,6 @@ Task management application focused on productivity and simplicity.
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vinayak2922k&theme=darkhub&no-frame=true&margin-w=10&column=7" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
