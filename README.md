@@ -26,26 +26,26 @@
 
 ---
 
-## ðŸ§  About Me
+## 🧠 About Me
 
 <img align="right" width="35%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 I'm a **Computer Science undergraduate** (CGPA: 8.37) at Modern Institute of Technology and Research Centre, focused on building clean, functional, and scalable **full-stack web applications**.
 
-- ðŸ”­ Currently building a **Doctor Prescription Management System** to digitize healthcare record-keeping
-- ðŸ§© Backend engineering experience with **FastAPI + MongoDB**, including JWT auth and REST API design
-- ðŸŽ¨ Frontend development with **React.js**, focused on simple, usable UI/UX
-- ðŸž Hands-on QA background â€” manual testing, structured bug reporting, and SDLC/STLC practices
-- ðŸ“¢ **Campus Mantri at GeeksforGeeks**, driving DSA culture and student engagement
-- ðŸŒ± Strengthening core fundamentals â€” Data Structures & Algorithms, DBMS, OOPs
+- 🔭 Currently building a **Doctor Prescription Management System** to digitize healthcare record-keeping
+- 🧩 Backend engineering experience with **FastAPI + MongoDB**, including JWT auth and REST API design
+- 🎨 Frontend development with **React.js**, focused on simple, usable UI/UX
+- 🐞 Hands-on QA background — manual testing, structured bug reporting, and SDLC/STLC practices
+- 📢 **Campus Mantri at GeeksforGeeks**, driving DSA culture and student engagement
+- 🌱 Strengthening core fundamentals — Data Structures & Algorithms, DBMS, OOPs
 
-**Open To:** Software Development Internships Â· Full Stack Roles Â· Open Source Collaboration
+**Open To:** Software Development Internships · Full Stack Roles · Open Source Collaboration
 
 <br clear="right"/>
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -74,10 +74,10 @@ I'm a **Computer Science undergraduate** (CGPA: 8.37) at Modern Institute of Tec
 
 ---
 
-## ðŸ“‚ Featured Projects
+## 📂 Featured Projects
 
 <details>
-<summary><b>ðŸ©º Doctor Prescription Management System</b> â€” In Progress</summary>
+<summary><b>🩺 Doctor Prescription Management System</b> — In Progress</summary>
 <br/>
 
 Healthcare-focused web application to digitize prescription management, reduce manual errors, and improve patient record tracking.
@@ -92,7 +92,7 @@ Healthcare-focused web application to digitize prescription management, reduce m
 </details>
 
 <details>
-<summary><b>ðŸŽª MeatPulse â€” Event & Internship Platform</b></summary>
+<summary><b>🎪 MeatPulse — Event & Internship Platform</b></summary>
 <br/>
 
 Backend platform connecting event/internship **Organizers** and **Seekers**, with role-based access and a full API layer.
@@ -107,7 +107,7 @@ Backend platform connecting event/internship **Organizers** and **Seekers**, wit
 </details>
 
 <details>
-<summary><b>âœ… To-Do List Web App</b></summary>
+<summary><b>✅ To-Do List Web App</b></summary>
 <br/>
 
 Task management application focused on productivity and simplicity.
@@ -122,9 +122,9 @@ Task management application focused on productivity and simplicity.
 
 ---
 
-## ðŸ’¼ Experience
+## 💼 Experience
 
-**Software Testing Intern** Â· Wurkify (Remote)
+**Software Testing Intern** · Wurkify (Remote)
 *Web Development*
 
 - Performed manual testing to identify UI and functional defects across web applications
@@ -135,8 +135,8 @@ Task management application focused on productivity and simplicity.
 
 <br/>
 
-**Campus Mantri** Â· GeeksforGeeks
-*Aug 2025 â€“ Nov 2025*
+**Campus Mantri** · GeeksforGeeks
+*Aug 2025 – Nov 2025*
 
 - Promoted DSA and coding culture among students on campus
 - Actively practiced and encouraged participation in Problem of the Day (POTD)
@@ -147,22 +147,22 @@ Task management application focused on productivity and simplicity.
 
 ---
 
-## ðŸ† Achievements
+## 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| ðŸŽ“ Academic Performance | CGPA 8.37 in B.Tech CSE |
-| ðŸ“¢ Campus Leadership | GeeksforGeeks Campus Mantri |
-| ðŸ’» Internship Experience | Software Testing Intern at Wurkify |
-| ðŸš€ Project Delivery | 18 REST APIs built for MeatPulse platform |
+| 🎓 Academic Performance | CGPA 8.37 in B.Tech CSE |
+| 📢 Campus Leadership | GeeksforGeeks Campus Mantri |
+| 💻 Internship Experience | Software Testing Intern at Wurkify |
+| 🚀 Project Delivery | 18 REST APIs built for MeatPulse platform |
 
 </div>
 
 ---
 
-## ðŸ“œ Certifications
+## 📜 Certifications
 
 **GeeksforGeeks**
 ![JavaScript](https://img.shields.io/badge/JavaScript%20Programming-Self%20Paced-6D28D9?style=flat-square&logo=geeksforgeeks&logoColor=white)
@@ -172,7 +172,7 @@ Task management application focused on productivity and simplicity.
 **Skilloceans**
 ![React](https://img.shields.io/badge/Web%20Apps%20with%20React%20JS-Certified-6D28D9?style=flat-square)
 
-**Google for Developers Ã— GeeksforGeeks**
+**Google for Developers × GeeksforGeeks**
 ![AI Agent Builder](https://img.shields.io/badge/Build%20with%20AI-Agent%20Builder%20Camp-8B5CF6?style=flat-square&logo=google&logoColor=white)
 
 **Outskill**
@@ -183,7 +183,7 @@ Task management application focused on productivity and simplicity.
 
 ---
 
-## ðŸ“Š GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -196,7 +196,7 @@ Task management application focused on productivity and simplicity.
 
 ---
 
-## ðŸ… GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
 
@@ -206,7 +206,7 @@ Task management application focused on productivity and simplicity.
 
 ---
 
-## ðŸ“ˆ Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -216,7 +216,7 @@ Task management application focused on productivity and simplicity.
 
 ---
 
-## ðŸ Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -226,7 +226,7 @@ Task management application focused on productivity and simplicity.
 
 ---
 
-## ðŸŽ¯ Current Focus
+## 🎯 Current Focus
 
 ```yaml
 Learning:
@@ -250,7 +250,7 @@ Open To:
 
 ---
 
-## ðŸ“¬ Connect With Me
+## 📬 Connect With Me
 
 <div align="center">
 
@@ -269,4 +269,3 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
-
